@@ -1,21 +1,30 @@
-Your instructor will review your code for the following objectives:
+# Portfolio Landing Page
 
-The following HTML tags are all used:
-p, h, ul, ol, li, em, strong, a, img, div, span
-Bootstrap classes are used to style the page. This means explicitly using classes mentioned on this page, not just linking in the Bootstrap stylesheet.
-Project includes a custom-made stylesheet that uses typography styles, cascading, the box model, and floats. *Code is clean, well-refactored, and easy-to-read. This includes correct indendation, spacing, and including only necessary comments and debugging tools.
-Commits are made regularly with clear messages that finish the phrase "It will…"
-The project repo contains a README that includes:
-author name
-project or program name
-description of program
-program setup instructions
-link to site on GitHub Pages
-copyright and license information
-Site is successfully deployed to GitHub pages.
-Project is in a polished, portfolio-quality state.
-Required content was in place by the Friday deadline.
-Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology.
+#### Webpage to show projects worked on during Epicodus
 
-we want the page to look like this:
-https://www.awwwards.com/sites/ed
+#### By Ngan Nguyen
+
+## Description
+
+## Setup/Installation Requirements
+
+## Known Bugs
+
+I can't seem to add the padding I want between the hood images and section "About Me" , not sure why. I tried.
+
+## Support and contact details
+
+Please contact Ngan Nguyen at random@email.com
+
+## Technologies Used
+
+Created webpage using Atom. Languages used are HTML, CSS and Bootstrap.
+
+### License
+
+*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+
+Copyright (c) 2018 Ngan Nguyen
+
+
+https://ngann.github.io/Project/
