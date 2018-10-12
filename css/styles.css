@@ -30,18 +30,22 @@
   margin-top: 40px;
 }
 
-.images {
+/* .images {
   border: 2px solid blue;
-}
+} */
 
 img.hood {
   width: 25%;
   height: 25%;
-  border:2px solid green;
-  padding: 20px;
+  margin:0px;
+  /* border:2px solid green; */
+  padding: 15px;
   float:left;
 }
 
 .box {
   border: 2px green;
+}
+footer {
+  float: right;
 }
