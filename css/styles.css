@@ -6,7 +6,7 @@
   padding: 10px yellow;
   border: 10px 10px 10px 10px;
   border-color: red;
-  background-color: lightblue;
+  /* background-color: lightblue; */
 
 }
 
@@ -14,7 +14,7 @@
   margin: 30px green;
   border: 20px purple;
   padding: 20px blue;
-  background-color: lightyellow;
+  /* background-color: lightyellow; */
 }
 
 .main h1 {
@@ -25,9 +25,13 @@
   float: center;
 }
 
+.section {
+  border: 1px solid blue;
+}
+
 .article {
-  margin-left: 20px;
-  margin-top: 40px;
+  margin:60px 40px 40px 40px;
+  border: 1px red;
 }
 
 /* .images {
@@ -48,4 +52,13 @@ img.hood {
 }
 footer {
   float: right;
+}
+
+.col-md-6 {
+  border: 2px solid black;
+}
+
+.about {
+  border: 2px solid green;
+  text-align: center;
 }
