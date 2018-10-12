@@ -17,38 +17,20 @@
   background-color: lightyellow;
 }
 
-h1 {
-
+.main h1 {
+  float: left;
 }
 
-h2 {
-
+.main h2 {
+  float: center;
 }
 
-h3 {
-
+.article {
+  margin-left: 20px;
+  margin-top: 40px;
 }
-
-p {
-
-}
-
-ul {
-
-}
-
-ol {
-
-}
-
-li {
-
-}
-
-a {
-
-}
-
-img {
-
+.image {
+  width: 100%;
+  height: 400px;
+  float:left;
 }
