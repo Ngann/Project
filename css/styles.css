@@ -1,3 +1,22 @@
+.sidebar {
+  float:right;
+}
+.row {
+  margin: 10px 10px 10px 10px;
+  padding: 10px yellow;
+  border: 10px 10px 10px 10px;
+  border-color: red;
+  background-color: lightblue;
+
+}
+
+.main  {
+  margin: 30px green;
+  border: 20px purple;
+  padding: 20px blue;
+  background-color: lightyellow;
+}
+
 h1 {
 
 }
