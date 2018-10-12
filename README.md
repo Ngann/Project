@@ -16,3 +16,6 @@ Site is successfully deployed to GitHub pages.
 Project is in a polished, portfolio-quality state.
 Required content was in place by the Friday deadline.
 Project demonstrates an understanding of this week's concepts. If prompted, you can discuss your code with an instructor using the correct terminology.
+
+we want the page to look like this:
+https://www.awwwards.com/sites/ed
