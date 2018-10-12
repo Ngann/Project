@@ -3,9 +3,8 @@
 }
 .row {
   margin: 10px 10px 10px 10px;
-  padding: 10px yellow;
+  padding: 100px yellow;
   border: 10px 10px 10px 10px;
-  border-color: red;
   /* background-color: lightblue; */
 
 }
@@ -14,7 +13,7 @@
   margin: 30px green;
   border: 20px purple;
   padding: 20px blue;
-  /* background-color: lightyellow; */
+  /* background-color: #F5F5F5; */
 }
 
 .main h1 {
@@ -26,7 +25,7 @@
 }
 
 .section {
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
 }
 
 .article {
@@ -47,18 +46,27 @@ img.hood {
   float:left;
 }
 
-.box {
-  border: 2px green;
-}
 footer {
   float: right;
 }
 
 .col-md-6 {
   border: 2px solid black;
+  padding:40px ;
 }
 
 .about {
-  border: 2px solid green;
+  /* border: 2px solid green; */
+  text-align: center;
+  padding-top: 40 px;
+}
+
+ul {
+  list-style: none;
+}
+
+.project {
+  border: 1px solid yellow;
+  background-color: #F5F5F5;
   text-align: center;
 }
