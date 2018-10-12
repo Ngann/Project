@@ -51,7 +51,7 @@ footer {
 }
 
 .col-md-6 {
-  border: 2px solid black;
+  /* border: 2px solid black; */
   padding:40px ;
 }
 
@@ -66,7 +66,14 @@ ul {
 }
 
 .project {
-  border: 1px solid yellow;
-  background-color: #F5F5F5;
+  /* border: 1px solid yellow; */
+  /* background-color: #F5F5F5; */
   text-align: center;
+}
+
+address {
+  float: right;
+}
+.rowtwo {
+  background-color: blue;
 }
