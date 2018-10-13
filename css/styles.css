@@ -18,6 +18,7 @@
 
 .main h1 {
   float: left;
+  /* font-family: Verdana sans-serif; */
 }
 
 .main h2 {
@@ -66,7 +67,7 @@ ul {
 }
 
 .project {
-  /* border: 1px solid yellow; */
+  border: 1px ridge yellow;
   /* background-color: #F5F5F5; */
   text-align: center;
 }
