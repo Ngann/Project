@@ -13,11 +13,14 @@
   margin: 30px green;
   border: 20px purple;
   padding: 20px blue;
+  font-weight: lighter;
   /* background-color: #F5F5F5; */
 }
 
 .main h1 {
   float: left;
+  font-weight: lighter;
+  font-stretch: ultra-expanded;
   /* font-family: Verdana sans-serif; */
 }
 
@@ -64,10 +67,11 @@ footer {
 
 ul {
   list-style: none;
+  font-weight: lighter;
 }
 
 .project {
-  border: 1px ridge yellow;
+  /* border: 1px ridge yellow; */
   /* background-color: #F5F5F5; */
   text-align: center;
 }
@@ -75,6 +79,19 @@ ul {
 address {
   float: right;
 }
+
 .rowtwo {
   background-color: blue;
 }
+
+h3 {
+  font-stretch: expanded;
+}
+h2 {
+  font-weight: lighter;
+  font-stretch: ultra-expanded;
+}
+ h4 {
+   font-weight: normal;
+   font-stretch: ultra-condensed;
+ }
