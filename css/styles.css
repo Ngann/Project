@@ -1,6 +1,9 @@
 .sidebar {
   float:right;
+  list-style-type:cjk-ideographic;
+  color: black;
 }
+
 .row {
   margin: 10px 10px 10px 10px;
   padding: 100px yellow;
@@ -10,11 +13,11 @@
 }
 
 .main  {
-  margin: 30px green;
+  margin: 5px;
   border: 20px purple;
-  padding: 20px blue;
+  padding: 30px blue;
   font-weight: lighter;
-  /* background-color: #F5F5F5; */
+  /* background-color: #F5F9F5; */
 }
 
 .main h1 {
@@ -29,12 +32,13 @@
 }
 
 .section {
-  /* border: 1px solid blue; */
+  border: 1px solid white;
 }
 
 .article {
-  margin:60px 40px 40px 40px;
+  margin:40px 40px 40px 40px;
   border: 1px red;
+  /* background-color: pink; */
 }
 
 /* .images {
@@ -84,14 +88,17 @@ address {
   background-color: blue;
 }
 
-h3 {
-  font-stretch: expanded;
-}
 h2 {
   font-weight: lighter;
   font-stretch: ultra-expanded;
 }
- h4 {
+
+h3 {
+  font-stretch: expanded;
+  text-decoration: underline;
+}
+
+h4 {
    font-weight: normal;
    font-stretch: ultra-condensed;
  }
